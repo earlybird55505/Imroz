@@ -1,0 +1,319 @@
+/*XL Device :1200px */
+@media (min-width: 1450px) and (max-width: 1600px){
+
+
+
+}
+@media (min-width: 1200px) and (max-width: 1449px){
+	
+
+
+}
+
+/*LG Device :992px */
+@media (min-width: 992px) and (max-width: 1199px){
+
+    .main-menu {
+        padding-left: 0;
+    }
+
+    .navbar-nav .nav-link {
+        font-size: 14px;
+        padding: 15px;
+        margin-right: 2px;
+    }
+
+    .btn {
+        font-size: 14px;
+    } 
+    
+    .title h2 {
+        font-size: 40px;
+    }
+
+    .title h6 {
+        font-size: 14px;
+    }
+
+    .title p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .qualfication li {
+        font-size: 16px;
+        padding: 10px 26px;
+    }
+
+    .progress-title {
+        margin-bottom: 14px;
+    }
+
+    .progress-title h5 {
+        font-size: 12px;
+    }
+
+    .progress-value {
+        font-size: 12px;
+    }
+
+    .portfolio-content-hover h6 {
+        font-size: 16px;
+    }
+
+    .portfolio-content-hover h4 {
+        font-size: 25px;
+    }
+
+    .service-box {
+        height: 300px;
+    }
+
+    .footer-icon li {
+        height: 40px;
+        width: 40px;
+        line-height: 39px;
+        margin: 0px 3px;
+    }
+
+    .footer-right p {
+        font-size: 12px;
+    }
+}
+
+/*MD Device :768px */
+@media (min-width: 768px) and (max-width: 991px){
+    
+    .main-menu {
+        padding-left: 0;
+    }
+
+    .nav2 {
+        padding-left: 0;
+    }
+
+    .nav2 .btn {
+        font-size: 13px;
+        padding: 16px 27px;
+        margin-left: -7px;
+        letter-spacing: 2px;
+    }
+
+    button.navbar-toggler.collapsed {
+        display: none;
+    }
+
+    .about-content {
+        margin-top: 40px;
+    }
+
+    .service .title p {
+        padding: 0px 60px;
+    }
+
+    .portfolio .title p {
+        padding: 0px 60px;
+    }
+
+    .section-padding {
+        padding: 50px 0px 15px 0px;
+    }
+
+    .blog .title p {
+        padding: 0px 60px;
+    }
+
+    form input {
+        width: 100%;
+    }
+
+    form textarea {
+        width: 100%;
+    }
+
+    .contact-left {
+        padding-bottom: 50px;
+    }
+
+    .footer-right p {
+        text-align: center;
+        float: none;
+    }
+
+    .footer-icon {
+        float: right;
+    }
+
+    .footer-icon li {
+        margin: 0px 3px;
+    }
+}
+
+/*Extra Small Device */
+@media (max-width: 767px){
+
+    .main-menu {
+        padding-left: 0;
+    }
+
+    .nav2 {
+        padding-left: 0;
+    }
+
+    .nav2 .btn {
+        display: none;
+    }
+
+    button.navbar-toggler {
+        display: none;
+    }
+
+    .home-content h1 {
+        font-size: 40px;
+        line-height: 60px;
+        padding-top: 30px;
+    }
+
+    .home-content h6 {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .btn {
+        font-size: 14px;
+    }
+
+    .about-content {
+        margin-top: 40px;
+    }
+
+    .service .title p {
+        padding: 0px;
+    }
+
+    .portfolio .title p {
+        padding: 0px;
+    }
+
+    .blog .title p {
+        padding: 0px;
+    }
+
+    .qualfication {
+        padding-bottom: 15px;
+        margin-bottom: 50px;
+        border-radius: 0;
+        border: none;
+        border-bottom: 1px solid #ffffff38;
+    }
+
+    .qualfication li {
+        padding: 10px 17px;
+    }
+
+    .title h2 {
+        font-size: 40px;
+    }
+
+    .title p {
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+    .title h6 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+
+    .section-padding {
+        padding: 50px 0px 15px 0px;
+    }
+
+    .service-box {
+        height: 350px;
+    }
+
+    .portfolio-content-hover h4 {
+        font-size: 20px;
+    }
+
+    .portfolio-content-hover h6 {
+        font-size: 14px;
+    }
+
+    .portfolio-content-hover p {
+        font-size: 12px;
+        padding: 0px 30px;
+    }
+
+    .blog-img img {
+        width: 100%;
+    }
+
+    .contact-left {
+        padding-bottom: 50px;
+    }
+
+    .footer-icon li {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        margin: 0px 3px;
+        float: right;
+    }
+
+    .footer-right p {
+        font-size: 12px;
+        text-align: center;
+        float: none;
+    }
+
+
+}
+
+/*SM Small Device :550px */
+@media (min-width: 576px) and (max-width: 767px){
+
+
+
+}
+
+/*SM Small Device :575px */
+@media (max-width: 575px){
+
+    a.nav-link {
+        display: none;
+    }
+
+    .home-content h1 {
+        font-size: 30px;
+        line-height: 47px;
+    }
+
+    .qualfication li {
+        font-size: 14px;
+    }
+
+    .btn {
+        letter-spacing: 1px;
+    }
+
+    .footer-logo {
+        text-align: center;
+    }
+
+    .footer-icon {
+        padding-top: 35px;
+        text-align: center;
+    }
+
+    .footer-icon li {
+        height: 45px;
+        width: 45px;
+        line-height: 45px;
+        margin: 7px 5px;
+        float: none;
+    }
+
+
+}
